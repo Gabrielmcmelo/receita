@@ -26,7 +26,7 @@ img {
 body {
   background: #eaeaea;
   font-family: "Roboto", sans-serif;
-  margin: 150px;
+  margin: 150px 150px 70px 150px;
 }
 #subtitle {
   text-align: center;
@@ -60,7 +60,7 @@ footer {
   font-size: 12px;
   text-align: center;
   position: absolute;
-  bottom: -146%;
+  bottom: -130%;
   right: 47%;
 }
 
